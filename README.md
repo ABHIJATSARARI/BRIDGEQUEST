@@ -147,7 +147,7 @@ WOLFRAM_APP_ID=your_wolfram_app_id_here
 <summary><b>🔑 How to get API keys</b></summary>
 
 #### Gemini API Key
-1. Go to [Google AI Studio](https://ai.google.dev/)
+1. Go to 
 2. Sign in with your Google account
 3. Click "Get API Key"
 4. Copy your key
@@ -207,7 +207,7 @@ npm run preview
 - **Node.js** - Runtime
 - **ESM Modules** - Module System
 - **Git** - Version Control
-- **AI Studio** - Deployment
+
 
 </td>
 </tr>
@@ -357,7 +357,6 @@ This project is built for educational purposes and hackathon submission.
 
 - **Wolfram Alpha** - For providing real mathematical and cultural data
 - **Google Gemini** - For AI-powered puzzle generation
-- **AI Studio** - For hosting and deployment platform
 - **Lucide Icons** - For beautiful icon library
 - **Recharts** - For data visualization
 
