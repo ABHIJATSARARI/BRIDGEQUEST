@@ -1,0 +1,5 @@
+{
+  "name": "BridgeQuest",
+  "description": "A cooperative puzzle game where strangers unite to solve AI-generated challenges powered by Wolfram-logic simulation.",
+  "requestFramePermissions": []
+}
